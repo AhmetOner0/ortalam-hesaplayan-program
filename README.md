@@ -1,0 +1,1 @@
+# ortalam-hesaplayan-program
